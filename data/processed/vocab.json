@@ -1,0 +1,10 @@
+{
+    "<PAD>": 0,
+    "<UNK>": 1,
+    "nomeação": 2,
+    "servidor": 3,
+    "contratação": 4,
+    "empresa": 5,
+    "decreto": 6,
+    "municipal": 7
+}
